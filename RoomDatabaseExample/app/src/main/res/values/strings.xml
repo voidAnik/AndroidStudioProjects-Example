@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomDatabaseExample</string>
+    <string name="insert">Insert</string>
+    <string name="type_last_name">Type last name</string>
+    <string name="type_first_name">Type first name</string>
+    <string name="delete">Delete</string>
+    <string name="type_uid">Type Uid</string>
+    <string name="fetch">Fetch</string>
+</resources>
